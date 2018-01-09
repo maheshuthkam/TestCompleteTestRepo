@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{6A3B87FC-A898-4D2A-9555-9FFFBFEC3F19}">
+	<children>
+		<child name="TCProject_Git" key="{26FF6BEA-2BCB-4BF7-B0E6-80FCD21A64C3}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="TCProject_Git\TCProject_Git.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{EE460614-97DC-4E80-875F-E98EE8D62B3F}">
+		<children>
+			<testItem key="{26FF6BEA-2BCB-4BF7-B0E6-80FCD21A64C3}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{09789D5D-B098-4878-9017-2592D83CAD12}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{60694DA7-EE55-412D-B6FC-B29E994ED284}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>
